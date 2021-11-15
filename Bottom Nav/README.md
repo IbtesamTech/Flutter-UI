@@ -1,4 +1,4 @@
-# flutteruichallenges
+# bottomnav
 
 A new Flutter project.
 
